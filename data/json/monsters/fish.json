@@ -106,7 +106,7 @@
   {
     "abstract": "mon_fish_medium",
     "type": "MONSTER",
-    "description": "A medium fish.",
+    "description": "A medium fishe.",
     "default_faction": "fish",
     "name": { "str_sp": "medium fish" },
     "//": "a default fish type - does not appear in-game",
